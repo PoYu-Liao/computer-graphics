@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+924330300 source:d:\大學的事物\作業區\graphics\05160461_final\glm.cpp
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"glm.h"
+
+924330300 d:\大學的事物\作業區\graphics\05160461_final\glm.h
+	<GL/glut.h>
+
+1426320928 d:\大學的事物\作業區\graphics\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1426320928 d:\大學的事物\作業區\graphics\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1528640904 source:d:\大學的事物\作業區\graphics\05160461_final\main.cpp
+	<GL/glut.h>
+	<stdio.h>
+	"glm.h"
+	<mmsystem.h>
+	"CMP3_MCI.h"
+
+1528295999 source:d:\大學的事物\作業區\graphics\05160461_final\transformation.cpp
+
+1528615934 d:\大學的事物\作業區\graphics\05160461_final\cmp3_mci.h
+	<string>
+	<windows.h>
+	<mmsystem.h>
+
+924330300 source:d:\大學的事物\作業區\graphics\download\05160461_final\glm.cpp
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"glm.h"
+
+924330300 d:\大學的事物\作業區\graphics\download\05160461_final\glm.h
+	<GL/glut.h>
+
+1528646249 source:d:\大學的事物\作業區\graphics\download\05160461_final\main.cpp
+	<GL/glut.h>
+	<stdio.h>
+	"glm.h"
+	<mmsystem.h>
+	"CMP3_MCI.h"
+
+1528615934 d:\大學的事物\作業區\graphics\download\05160461_final\cmp3_mci.h
+	<string>
+	<windows.h>
+	<mmsystem.h>
+

@@ -1,0 +1,162 @@
+newmtl m0
+map_Kd 肌 (2).png
+Ka 0.6 0.6 0.6
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m1
+map_Kd green_eye.png
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 5
+d 1
+
+newmtl m2
+map_Kd eyebrow011.png
+Ka 0.6 0.6 0.6
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m3
+map_Kd eyelashes03.png
+Ka 0.6 0.6 0.6
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m4
+map_Kd tongue01_diffuse.png
+Ka 0.6 0.6 0.6
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m5
+map_Kd 髪.jpg
+Ka 0.6 0.6 0.6
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m6
+Ka 0 0 0
+Kd 0 0 0
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m7
+Ka 0.23 0.23 0.23
+Kd 0.03 0.03 0.03
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m8
+Ka 0 0 0
+Kd 0.1 0.1 0.1
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m9
+map_Kd vintage-lerther-bk.jpg
+Ka 0.6 0.6 0.6
+Kd 0.1096 0.1096 0.1096
+Ks 0.5 0.5 0.5
+Ns 11.25
+d 1
+
+newmtl m10
+map_Kd グローブ色.png
+Ka 0.6 0.6 0.6
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m11
+map_Kd グローブ（手の平）.png
+Ka 0.6 0.6 0.6
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m12
+map_Kd グローブ.png
+Ka 0.6 0.6 0.6
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m13
+map_Kd 胸.png
+Ka 0.6 0.6 0.6
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m14
+map_Kd グローブ色.png
+Ka 0.6 0.6 0.6
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m15
+map_Kd 背中.png
+Ka 0.6 0.6 0.6
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m16
+Ka 0.6 0.6 0.6
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m17
+Ka 0.6 0.6 0.6
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m18
+Ka 0.6 0.6 0.6
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 5
+d 0
+
+newmtl m19
+map_Kd 服.png
+Ka 0.6 0.6 0.6
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m20
+map_Kd スカート３.png
+Ka 0.6 0.6 0.6
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 5
+d 1
+
